@@ -1,3 +1,12 @@
+/*************************************************************************
+** Author : Journey Timmermans
+** Program : hw3, q1
+** Date Created : Marche 15, 2024
+** Date Last Modified : March 17, 2024
+** Problem:
+Create classes based on the person class given
+*************************************************************************/
+
 #include <iostream>
 #include "Person.h"
 #include "Employee.h"
